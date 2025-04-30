@@ -2,10 +2,8 @@
 
 任务一：首个KotlinAPP的构建
 
+![1](./images/1.png/)
 
+任务二：成Compose布局的实践
 
-![1](./picture/1.png)
-
-
-
-任务二：成Compose布局的实践![2](./picture/2.png)
+![2](./images/2.png)
